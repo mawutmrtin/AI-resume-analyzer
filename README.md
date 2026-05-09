@@ -4,8 +4,6 @@ AI Resume Analyzer is a simple AI-powered web application that analyzes resumes 
 
 The application detects important technical and soft skills from resume text, performs sentiment analysis, and generates a resume score.
 
----
-
 ## Features
 
 - Resume skill detection
@@ -14,8 +12,6 @@ The application detects important technical and soft skills from resume text, pe
 - Simple and clean web interface
 - Built with Python and Flask
 
----
-
 ## Technologies Used
 
 - Python
@@ -23,11 +19,8 @@ The application detects important technical and soft skills from resume text, pe
 - TextBlob
 - HTML/CSS
 
----
-
 ## Project Structure
 
-```bash
 ai-resume-analyzer/
 │
 ├── app.py
@@ -36,35 +29,18 @@ ai-resume-analyzer/
 │
 └── templates/
     └── index.html
-```
-
----
 
 ## Installation
 
-Install required packages:
-
-```bash
 pip install -r requirements.txt
-```
-
----
 
 ## Run the Application
 
-```bash
 python app.py
-```
-
----
 
 ## Open in Browser
 
-```bash
 http://127.0.0.1:5000
-```
-
----
 
 ## Future Improvements
 
@@ -72,8 +48,6 @@ http://127.0.0.1:5000
 - AI-powered recommendations
 - Job matching system
 - Resume improvement suggestions
-
----
 
 ## Author
 
